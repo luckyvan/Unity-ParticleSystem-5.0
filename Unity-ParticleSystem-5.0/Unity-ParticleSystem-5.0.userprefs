@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\ParticleHelper.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\Fire.cs" Line="18" Column="20" />
+      <File FileName="Assets\Image Effects\CameraMotionBlurEditor.js" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\ParticleHelper.cs" Line="74" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
